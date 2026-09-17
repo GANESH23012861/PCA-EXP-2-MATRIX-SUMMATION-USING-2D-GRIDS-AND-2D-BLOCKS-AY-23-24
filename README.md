@@ -1,8 +1,8 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 <h3>AIM:Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24</h3>
-<h3>ENTER YOUR NAME : B.R.Abishek</h3>
-<h3>ENTER YOUR REGISTER NO 212224110002</h3>
+<h3>ENTER YOUR NAME : SELVAGANESH R</h3>
+<h3>ENTER YOUR REGISTER NO 212223230200</h3>
 <h3>EX. NO 02 </h3>
 <h3>DATE 27-08-2026</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
